@@ -1,7 +1,7 @@
 ### Hi, I'm Aman Pandey👋
 
 # 💫 About Me:
-🔭 I'm actively engaged in Flutter development and Competitive programming. <br>🤝 I'm always excited to collaborate with others on  Hackathons and Flutter projects.<br>🌱 I’m currently learning Blockchain.<br>😉 Fun fact - I am an Automobile enthusiast and coffee addict.
+🔭 I'm actively engaged in Flutter development and Competitive programming. <br><br>🤝 I'm always excited to collaborate with others on  Hackathons and Flutter projects. <br><br>🌱 I’m currently learning Blockchain. <br><br>😉 Fun fact - I am an Automobile enthusiast and coffee addict.
 
 
 ## 🌐 Socials:
